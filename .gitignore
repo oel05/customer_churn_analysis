@@ -1,5 +1,6 @@
 # Data files
 *.csv
+!sample_*.csv
 *.parquet
 *.pkl
 
